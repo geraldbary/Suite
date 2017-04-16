@@ -1,2 +1,3 @@
 # Suite
 what's new
+This project is all about trying the features available at github that can help collaborate with partners around the world. Something my friend was asking me about i knew but didn't actually went in deep digging. Now it's time to digg and find the ressources that will help others. LNK...
